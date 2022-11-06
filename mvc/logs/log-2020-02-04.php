@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-02-04 04:50:13 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-02-04 04:50:14 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2020-02-04 04:50:16 --> 404 Page Not Found: Blog/index
+ERROR - 2020-02-04 04:50:18 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-02-04 04:50:20 --> 404 Page Not Found: Wp/index
+ERROR - 2020-02-04 04:50:23 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2020-02-04 04:50:23 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2020-02-04 04:50:24 --> 404 Page Not Found: Blog/administrator
+ERROR - 2020-02-04 04:50:26 --> 404 Page Not Found: Joomla/robots.txt
+ERROR - 2020-02-04 04:50:27 --> 404 Page Not Found: Joomla/administrator
+ERROR - 2020-02-04 05:01:54 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-02-04 05:01:56 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2020-02-04 05:01:58 --> 404 Page Not Found: Blog/index
+ERROR - 2020-02-04 05:01:59 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-02-04 05:02:01 --> 404 Page Not Found: Wp/index
+ERROR - 2020-02-04 05:02:04 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2020-02-04 05:02:05 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2020-02-04 05:02:11 --> 404 Page Not Found: Blog/administrator
+ERROR - 2020-02-04 05:02:12 --> 404 Page Not Found: Joomla/robots.txt
+ERROR - 2020-02-04 05:02:13 --> 404 Page Not Found: Joomla/administrator
+ERROR - 2020-02-04 18:41:20 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-02-04 18:41:22 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2020-02-04 18:41:24 --> 404 Page Not Found: Blog/index
+ERROR - 2020-02-04 18:41:25 --> 404 Page Not Found: Wordpress/index
+ERROR - 2020-02-04 18:41:26 --> 404 Page Not Found: Wp/index
+ERROR - 2020-02-04 18:41:29 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2020-02-04 18:41:31 --> 404 Page Not Found: Blog/robots.txt
+ERROR - 2020-02-04 18:41:32 --> 404 Page Not Found: Blog/administrator
+ERROR - 2020-02-04 18:41:33 --> 404 Page Not Found: Joomla/robots.txt
+ERROR - 2020-02-04 18:41:34 --> 404 Page Not Found: Joomla/administrator
